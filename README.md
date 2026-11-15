@@ -7,6 +7,7 @@ Personal academic website of Matthew M. Lee, PhD, built with [al-folio](https://
 | To change…                            | Edit                                                                                |
 | ------------------------------------- | ----------------------------------------------------------------------------------- |
 | Bio and homepage sections             | `_pages/about.md` (photo: `assets/img/prof_pic.jpg`)                                |
+| Link-preview image and iOS icon       | `assets/img/prof_pic_square.jpg`, `assets/img/apple-touch-icon.png` (square crops of the photo; redo them if you change it) |
 | Bold name and page titles             | `assets/css/main.scss` (rules at the end; the rest is copied from the theme)       |
 | Publications                          | `_bibliography/papers.bib` (`selected = {true}` puts a paper on the homepage)      |
 | Research and teaching pages           | `_pages/research.md`, `_pages/teaching.md`                                          |
