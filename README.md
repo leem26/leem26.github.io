@@ -1,6 +1,6 @@
-# mattlee26.github.io
+# leem26.github.io
 
-Personal academic website of Matthew M. Lee, PhD, built with [al-folio](https://github.com/alshedivat/al-folio) (v1.x) and hosted on GitHub Pages at <https://mattlee26.github.io>.
+Personal academic website of Matthew M. Lee, PhD, built with [al-folio](https://github.com/alshedivat/al-folio) (v1.x) and hosted on GitHub Pages at <https://leem26.github.io>.
 
 ## Where things live
 
@@ -37,7 +37,7 @@ Then open <http://localhost:4000>. Responsive images need ImageMagick (`brew ins
 
 ## Publishing
 
-The site is the GitHub repository `mattlee26/mattlee26.github.io`. Because the repository is named `<username>.github.io`, GitHub serves it at the root of <https://mattlee26.github.io>.
+The site is the GitHub repository `leem26/leem26.github.io`. Because the repository is named `<username>.github.io`, GitHub serves it at the root of <https://leem26.github.io>.
 
 To publish a change, commit it and push to `main`:
 
